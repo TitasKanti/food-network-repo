@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: green;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.button-style{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(lime, blue);
+    padding: 10px 10px;
+    border-radius: 30px;
+}
+.page-setup{
+    width:50%;
+    padding-left: 90px;
+    padding-top: 100px;
+}
