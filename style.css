@@ -16,9 +16,12 @@ h3{
 h1 span{
     color: green;
 }
+h2 span{
+    color: rgba(255, 255, 0, 0.747);
+}
 .flexible-container{
     display: flex;
-    margin-bottom: 130px;
+    margin-bottom: 120px;
 }
 .button-style{
     text-decoration: none;
@@ -44,8 +47,8 @@ h1 span{
 }
 .text-position{
     text-align: center;
-    width:30%;
-    padding-left: 500px;
+    width:38%;
+    padding-left: 450px;
 }
 .box-style{
     width: 50%;
@@ -60,4 +63,14 @@ h1 span{
     padding-left: 10px;
     border-radius: 30px;
 }
-
+.footer-background{
+    background-color: black;
+    text-align: center;
+    color: darkgrey;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+#subscribe-alling{
+    text-align: right;
+    color: burlywood;
+}
