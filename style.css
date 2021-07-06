@@ -16,7 +16,7 @@ h1 span{
 .button-style{
     text-decoration: none;
     color: whitesmoke;
-    background-image: linear-gradient(blue, tomato);
+    background-image: linear-gradient(purple, tomato);
     padding: 15px 20px;
     border-radius: 30px;
 }
@@ -31,4 +31,7 @@ h1 span{
 .top-banner{
     background-image: url(images/shapes/bg2.png);
     background-repeat: no-repeat;
+}
+.line-space{
+    line-height: 1.6;
 }
