@@ -6,6 +6,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 35px;
+}
 h1 span{
     color: green;
 }
@@ -33,5 +36,11 @@ h1 span{
     background-repeat: no-repeat;
 }
 .line-space{
-    line-height: 1.6;
+    line-height: 1.8;
 }
+.text-position{
+    text-align: center;
+    width:30%;
+    padding-left: 500px;
+}
+
