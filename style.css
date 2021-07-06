@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: grey;
 }
 h1{
@@ -11,17 +11,24 @@ h1 span{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 130px;
 }
 .button-style{
     text-decoration: none;
     color: whitesmoke;
-    background-image: linear-gradient(lime, blue);
-    padding: 10px 10px;
+    background-image: linear-gradient(blue, tomato);
+    padding: 15px 20px;
     border-radius: 30px;
 }
 .page-setup{
-    width:50%;
-    padding-left: 90px;
-    padding-top: 100px;
+    width:36%;
+    padding-left: 8%;
+    padding-top: 5%;
+}
+.page-setup img{
+    width: 120%;
+}
+.top-banner{
+    background-image: url(images/shapes/bg2.png);
+    background-repeat: no-repeat;
 }
