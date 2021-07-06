@@ -9,6 +9,10 @@ h1{
 h2{
     font-size: 35px;
 }
+h3{
+    font-size: 34px;
+    color: black;
+}
 h1 span{
     color: green;
 }
@@ -42,5 +46,18 @@ h1 span{
     text-align: center;
     width:30%;
     padding-left: 500px;
+}
+.box-style{
+    width: 50%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 5px darkgrey;
+}
+.box-style img{
+    width: 96%;
+    padding-left: 10px;
+    border-radius: 30px;
 }
 
